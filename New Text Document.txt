@@ -1,0 +1,49 @@
+Docs - Views
+https://laravel.com/docs/5.2/views
+
+https://laravel.com/docs/5.2/blade
+
+Docs - Migrations
+https://laravel.com/docs/5.2/migrations
+
+
+Docs - Database Raw SQL Queries
+https://laravel.com/docs/5.2/database
+
+
+Docs - Eloquent
+https://laravel.com/docs/5.2/eloquent
+
+
+Docs - Eloquent Relationships
+https://laravel.com/docs/5.2/eloquent-relationships
+
+
+Docs - Laravel Relationships
+https://laravel.com/docs/5.2/eloquent-relationships
+
+
+Docs - Eloquent Relationships
+https://laravel.com/docs/5.2/eloquent-relationships
+
+
+Docs - Eloquent Relationships
+https://laravel.com/docs/5.2/eloquent-relationships
+
+
+ Docs - Eloquent Relationships
+https://laravel.com/docs/5.2/eloquent-relationships
+
+Docs - Validation
+https://laravel.com/docs/5.2/validation
+
+Accessors and Mutators
+https://laravel.com/docs/5.2/eloquent-mutators
+
+Docs - Sessions
+https://laravel.com/docs/5.2/session
+
+Docs - Sending email
+https://laravel.com/docs/5.2/mail
+
+

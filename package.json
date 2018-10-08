@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "browserslist": "^4.1.2",
+    "laravel-elixir": "*"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
